@@ -1,0 +1,28 @@
+.card-cover{
+    height: 93.6vh;
+}
+.card-img-overlay{
+    background-image: url('../../images/cover.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    max-width: 100%;
+    height: 100%;
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+ /* @media (min-width: 400px) { 
+    .card-img-overlay{
+        background-image: url('../../images/pretty-young-stylish-sexy-woman-pink-luxury-dress-summer-fashion-trend-chic-style-sunglasses-blue-studio-background-shopping-holding-paper-bags-talking-mobile-phone-shopaholic.jpg');
+        background-size: cover;
+    }
+ } */
+
+/* Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) { 
+    .card-img-overlay{
+        background-image: url('../../images/full-shot-woman-posing-with-shopping-bags_23-2149220636.webp');
+        background-size: cover;
+        background-position: center;
+    }
+ } */
